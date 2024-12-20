@@ -8,7 +8,7 @@ This script takes a text file with primer sequence and a reference FASTA file as
 
 ### Dependencies
 
--   [Python 3]
+-   [Python 3](https://www.python.org/)
 -   [Biopython](https://biopython.org/)
 -   [pandas](https://pandas.pydata.org/)
 -   [BLAST+](https://www.ncbi.nlm.nih.gov/books/NBK569861/)
